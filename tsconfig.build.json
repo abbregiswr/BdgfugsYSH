@@ -1,0 +1,13 @@
+{
+  "files": [],
+  "compilerOptions": {
+    "typeRoots": ["node_modules/@types"],
+    "skipDefaultLibCheck": true,
+    "skipLibCheck": true
+  },
+  "references": [
+    { "path": "apps/site" },
+    { "path": "apps/sandbox" },
+    { "path": "apps/kitchen-sink" },
+  ]
+}
